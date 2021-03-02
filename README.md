@@ -1,4 +1,4 @@
-# Fungsi : `Nganu Script Python'
+# Fungsi : `Nganu Script Python`
 
 # Cara Pake : 
 ```
