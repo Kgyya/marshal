@@ -1,3 +1,4 @@
+#Python Versi 3.9.2
 """
 Hy Bang
 
