@@ -7,6 +7,8 @@ pkg install python
 pkg install git
 git clone https://github.com/Kgyya/marshal
 cd marshal
+cp marshal.py $HOME
+cd $HOME
 python marshal.py
 ```
 
