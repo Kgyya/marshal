@@ -1,4 +1,4 @@
-# Fungsi : `Nganu Script Python`
+# Fungsi : `Compile Source Code Python` (Atau Apalah:v)
 
 # Cara Pake : 
 ```
@@ -11,5 +11,3 @@ cp marshal.py $HOME
 cd $HOME
 python marshal.py
 ```
-
-Pw : kgyyateco
